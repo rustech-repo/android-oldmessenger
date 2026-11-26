@@ -1,6 +1,23 @@
 .up {
-    background-color: #79c9ff;
-    margin: 0;
+    background-color: #007a08;
+    margin: 0px;
     padding: 10px;
-    border-bottom: 1px solid #32b7ff;
+    border-bottom: 1px solid #005301;
+}
+h1 {
+    margin: 0px;
+    padding: 10px;
+    color: white;
+}
+div {
+    margin: 0px;
+    padding: 10px;
+    font-family: Droidsans, sans-serif;
+}
+.contact {
+    background-color: #f3f3f3;
+    padding: 10px;
+    padding-left: 10px;
+    border-top: 1px solid #909090;
+    font-size: 24px;
 }
