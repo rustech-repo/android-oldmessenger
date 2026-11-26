@@ -15,9 +15,20 @@ div {
     font-family: Droidsans, sans-serif;
 }
 .contact {
+    display: flex;
     background-color: #f3f3f3;
     padding: 10px;
     padding-left: 10px;
     border-top: 1px solid #909090;
     font-size: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact button {
+    background-color: #007a08;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 24px;
+    cursor: pointer;
 }
